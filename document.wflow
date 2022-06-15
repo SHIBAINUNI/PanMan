@@ -1,0 +1,1491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AMApplicationBuild</key>
+	<string>492</string>
+	<key>AMApplicationVersion</key>
+	<string>2.10</string>
+	<key>AMDocumentVersion</key>
+	<string>2</string>
+	<key>actions</key>
+	<array>
+		<dict>
+			<key>action</key>
+			<dict>
+				<key>AMAccepts</key>
+				<dict>
+					<key>Container</key>
+					<string>List</string>
+					<key>Optional</key>
+					<true/>
+					<key>Types</key>
+					<array>
+						<string>com.apple.cocoa.path</string>
+					</array>
+				</dict>
+				<key>AMActionVersion</key>
+				<string>1.1.2</string>
+				<key>AMApplication</key>
+				<array>
+					<string>Finder</string>
+				</array>
+				<key>AMParameterProperties</key>
+				<dict>
+					<key>fileNames</key>
+					<dict/>
+				</dict>
+				<key>AMProvides</key>
+				<dict>
+					<key>Container</key>
+					<string>List</string>
+					<key>Types</key>
+					<array>
+						<string>com.apple.cocoa.path</string>
+					</array>
+				</dict>
+				<key>ActionBundlePath</key>
+				<string>/System/Library/Automator/Get Specified Finder Items.action</string>
+				<key>ActionName</key>
+				<string>Get Specified Finder Items</string>
+				<key>ActionParameters</key>
+				<dict>
+					<key>fileNames</key>
+					<array>
+						<string>~/Desktop/Expansion Punks/punk-0010x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0011x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0012x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0013x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0014x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0015x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0016x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0017x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0018x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0019x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0020x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0021x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0022x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0023x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0024x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0025x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0026x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0027x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0028x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0029x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0030x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0031x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0032x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0033x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0034x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0035x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0036x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0037x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0038x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0039x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0040x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0041x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0042x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0043x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0044x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0045x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0046x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0047x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0048x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0049x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0050x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0051x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0052x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0053x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0054x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0055x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0056x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0057x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0058x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0059x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0060x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0061x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0062x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0063x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0064x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0065x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0066x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0067x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0068x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0069x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0070x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0071x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0072x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0073x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0074x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0075x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0076x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0077x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0078x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0079x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0080x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0081x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0082x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0083x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0084x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0085x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0086x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0087x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0088x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0089x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0090x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0091x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0092x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0093x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0094x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0095x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0096x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0097x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0098x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0099x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0100x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0101x8.png</string>
+					</array>
+				</dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.Automator.SpecifiedFiles</string>
+				<key>CFBundleVersion</key>
+				<string>1.1.2</string>
+				<key>CanShowSelectedItemsWhenRun</key>
+				<false/>
+				<key>CanShowWhenRun</key>
+				<true/>
+				<key>Category</key>
+				<array>
+					<string>AMCategoryFilesAndFolders</string>
+				</array>
+				<key>Class Name</key>
+				<string>SpecifiedFilesAction</string>
+				<key>InputUUID</key>
+				<string>CC06A6A0-94C9-41C9-8020-5492635F5473</string>
+				<key>Keywords</key>
+				<array>
+					<string>File</string>
+					<string>Choose</string>
+					<string>Find</string>
+					<string>Get</string>
+				</array>
+				<key>OutputUUID</key>
+				<string>880AD6FF-1AC5-4D2F-A152-2F008F44B020</string>
+				<key>UUID</key>
+				<string>DDC845DC-D9FC-49A9-8358-6E47A7045DA3</string>
+				<key>UnlocalizedApplications</key>
+				<array>
+					<string>Finder</string>
+				</array>
+				<key>arguments</key>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>default value</key>
+						<array/>
+						<key>name</key>
+						<string>fileNames</string>
+						<key>required</key>
+						<string>0</string>
+						<key>type</key>
+						<string>0</string>
+						<key>uuid</key>
+						<string>0</string>
+					</dict>
+				</dict>
+				<key>isViewVisible</key>
+				<true/>
+				<key>location</key>
+				<string>318.500000:239.000000</string>
+				<key>nibPath</key>
+				<string>/System/Library/Automator/Get Specified Finder Items.action/Contents/Resources/Base.lproj/main.nib</string>
+			</dict>
+			<key>isViewVisible</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>action</key>
+			<dict>
+				<key>AMAccepts</key>
+				<dict>
+					<key>Container</key>
+					<string>List</string>
+					<key>Optional</key>
+					<true/>
+					<key>Types</key>
+					<array>
+						<string>com.apple.cocoa.path</string>
+					</array>
+				</dict>
+				<key>AMActionVersion</key>
+				<string>1.1.2</string>
+				<key>AMApplication</key>
+				<array>
+					<string>Finder</string>
+				</array>
+				<key>AMParameterProperties</key>
+				<dict>
+					<key>fileNames</key>
+					<dict/>
+				</dict>
+				<key>AMProvides</key>
+				<dict>
+					<key>Container</key>
+					<string>List</string>
+					<key>Types</key>
+					<array>
+						<string>com.apple.cocoa.path</string>
+					</array>
+				</dict>
+				<key>ActionBundlePath</key>
+				<string>/System/Library/Automator/Get Specified Finder Items.action</string>
+				<key>ActionName</key>
+				<string>Get Specified Finder Items</string>
+				<key>ActionParameters</key>
+				<dict>
+					<key>fileNames</key>
+					<array>
+						<string>~/Desktop/Expansion Punks/punk-0013x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0010x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0011x8.png</string>
+						<string>~/Desktop/Expansion Punks/punk-0012x8.png</string>
+					</array>
+				</dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.Automator.SpecifiedFiles</string>
+				<key>CFBundleVersion</key>
+				<string>1.1.2</string>
+				<key>CanShowSelectedItemsWhenRun</key>
+				<false/>
+				<key>CanShowWhenRun</key>
+				<true/>
+				<key>Category</key>
+				<array>
+					<string>AMCategoryFilesAndFolders</string>
+				</array>
+				<key>Class Name</key>
+				<string>SpecifiedFilesAction</string>
+				<key>Disabled</key>
+				<true/>
+				<key>InputUUID</key>
+				<string>8DBDD3CD-DA89-4744-8B6C-6A5FA5BAF56A</string>
+				<key>Keywords</key>
+				<array>
+					<string>File</string>
+					<string>Choose</string>
+					<string>Find</string>
+					<string>Get</string>
+				</array>
+				<key>OutputUUID</key>
+				<string>2BC26070-58BA-4079-9757-930D106CBF5D</string>
+				<key>UUID</key>
+				<string>22973613-998A-4779-8082-96EDEF8BE5C3</string>
+				<key>UnlocalizedApplications</key>
+				<array>
+					<string>Finder</string>
+				</array>
+				<key>arguments</key>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>default value</key>
+						<array/>
+						<key>name</key>
+						<string>fileNames</string>
+						<key>required</key>
+						<string>0</string>
+						<key>type</key>
+						<string>0</string>
+						<key>uuid</key>
+						<string>0</string>
+					</dict>
+				</dict>
+				<key>isViewVisible</key>
+				<false/>
+				<key>location</key>
+				<string>318.500000:280.000000</string>
+				<key>nibPath</key>
+				<string>/System/Library/Automator/Get Specified Finder Items.action/Contents/Resources/Base.lproj/main.nib</string>
+			</dict>
+			<key>isViewVisible</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>action</key>
+			<dict>
+				<key>AMAccepts</key>
+				<dict>
+					<key>Container</key>
+					<string>List</string>
+					<key>Optional</key>
+					<true/>
+					<key>Types</key>
+					<array>
+						<string>*</string>
+					</array>
+				</dict>
+				<key>AMActionVersion</key>
+				<string>1.0.2</string>
+				<key>AMApplication</key>
+				<array>
+					<string>Automator</string>
+				</array>
+				<key>AMParameterProperties</key>
+				<dict>
+					<key>playbackSpeed</key>
+					<dict/>
+					<key>playbackSpeed_MAX</key>
+					<dict/>
+					<key>playbackSpeed_MIN</key>
+					<dict/>
+					<key>timeoutCount</key>
+					<dict/>
+					<key>timeoutCount_MAX</key>
+					<dict/>
+					<key>timeoutCount_MIN</key>
+					<dict/>
+					<key>timeoutIsError</key>
+					<dict/>
+					<key>timeoutPerEvent</key>
+					<dict/>
+					<key>userEvents</key>
+					<dict/>
+				</dict>
+				<key>AMProvides</key>
+				<dict>
+					<key>Container</key>
+					<string>List</string>
+					<key>Types</key>
+					<array>
+						<string>*</string>
+					</array>
+				</dict>
+				<key>AMRequiredResources</key>
+				<array/>
+				<key>ActionBundlePath</key>
+				<string>/System/Library/Automator/Watch Me Do.action</string>
+				<key>ActionName</key>
+				<string>Watch Me Do</string>
+				<key>ActionParameters</key>
+				<dict>
+					<key>playbackSpeed</key>
+					<real>0.0</real>
+					<key>playbackSpeed_MAX</key>
+					<real>1</real>
+					<key>playbackSpeed_MIN</key>
+					<real>-1</real>
+					<key>timeoutCount</key>
+					<real>2</real>
+					<key>timeoutCount_MAX</key>
+					<real>1000</real>
+					<key>timeoutCount_MIN</key>
+					<real>0.0</real>
+					<key>timeoutIsError</key>
+					<true/>
+					<key>timeoutPerEvent</key>
+					<true/>
+					<key>userEvents</key>
+					<data>
+					YnBsaXN0MDDUAAEAAgADAAQABQAGAAcAClgk
+					dmVyc2lvblkkYXJjaGl2ZXJUJHRvcFgkb2Jq
+					ZWN0cxIAAYagXxAPTlNLZXllZEFyY2hpdmVy
+					0QAIAAlUcm9vdIABrxDHAAsADAASACIAIwAk
+					ACUAJgAnACsALwBAAEEAQgBDAEQARQBGAFIA
+					VQBpAGoAawBsAG0AbgBvAHAAcQByAHMAdAB1
+					AHYAdwB9AIEAhACoAKkAqgCrAKwArQCuAK8A
+					sACxALIAswC0ALUAtgC+AL8AwADIAMkAygDL
+					AMwA1ADVANYA1wDYANkA4QDiAOMA6wDsAO0A
+					7gDxAQcBCAEJAREBEgEaASIBKgErATMBNgFM
+					AU0BVQFWAV4BZgFnAW8BcAFxAXkBfAGUAZUB
+					lgGXAZ8BoAGhAaIBqgGyAbMBuwG8AcQBxwHj
+					AeQB5QHmAecB6AHwAfgB+QIBAgICAwIEAgUC
+					DQIOAhYCFwIaAjgCOQI6AjsCPAI9Aj4CRgJO
+					Ak8CVwJYAmACYQJpAmoCawJuAowCjQKOAo8C
+					lwKYApkCoQKpAqoCsgKzArsCwwLEAswCzQLQ
+					AvYC9wL4AvkC+gL7AvwC/QMFAwYDDgMWAxcD
+					GAMgAyEDIgMqAysDLAM0AzwDPQM+A0IDRgNK
+					A0sDTANRA1NVJG51bGzSAA0ADgAPABFaTlMu
+					b2JqZWN0c1YkY2xhc3OhABCAAoDF2AATAA4A
+					FAAVABYAFwAYABkAGgAbABwAHQAeAB8AIAAh
+					WHVpRXZlbnRzXxARc2NyZWVuQ2FwdHVyZURh
+					dGFXdGltZW91dFVkZWxheVtwcm9jZXNzTmFt
+					ZV8QD3VzZXJEZXNjcmlwdGlvblphY3Rpb25O
+					YW1lgAiAxoAAgAeABoAEgAWAA11Nb3VzZSBD
+					bGlja2VkVkZpbmRlcm8QKwBUAHkAcABlACAg
+					HABwAHUAbgBrAC0AMAAwADEAMAB4ADgALgBw
+					AG4AZyAdACAAaQBuAHQAbwAgAHQAaABlACAA
+					dABlAHgAdAAgAGYAaQBlAGwAZAAuI0ATj/xQ
+					AAAAI0AAAAAAAAAA0gANAA4AKAARoQApgAmA
+					xdIALAAOAC0ALlpwcm9wZXJ0aWVzgAqAxNMA
+					MAANAA4AMQA4AD9XTlMua2V5c6YAMgAzADQA
+					NQA2ADeAC4AMgA2ADoAPgBCmADkAOgAfADwA
+					PQAdgBGAwIAEgMKAw4AHgCJdY2hpbGRyZW5T
+					dGFja1tjZ0V2ZW50RGF0YVtwcm9jZXNzTmFt
+					ZV8QI2tVSVJFdmVudERlbGF5U2Vjb25kc0Jl
+					Zm9yZVBsYXliYWNrXxAXZGVzY3JpcHRpb25G
+					b3JtYXRTdHJpbmdfECJrVUlSRXZlbnRUaW1l
+					b3V0U2Vjb25kc0ZvclBsYXliYWNr0gANAA4A
+					RwBRqQBIAEkASgBLAEwATQBOAE8AUIASgCSA
+					SYBUgGCAb4CCgJSApoC/0gAsAA4AUwBUgBOA
+					I9MAMAANAA4AVgBfAD+oAFcAWABZAFoAWwBc
+					AF0AXoAUgBWAFoAXgBiAGYAagBuoAGAAYQBi
+					AB8AZABlAGIAZ4AcgB2AHoAEgB+AIIAegCGA
+					IlZBWFJvbGVfEBJDRkJ1bmRsZUlkZW50aWZp
+					ZXJYQVhIaWRkZW5XQVhUaXRsZV8QEUFYUm9s
+					ZURlc2NyaXB0aW9uXxAXa1VJRWxlbWVudENo
+					aWxkcmVuQ291bnRfEBdBWEVuaGFuY2VkVXNl
+					ckludGVyZmFjZVtBWEZyb250bW9zdF1BWEFw
+					cGxpY2F0aW9uXxAQY29tLmFwcGxlLmZpbmRl
+					cghbYXBwbGljYXRpb24QBAnSAHgAeQB6AHta
+					JGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0RpY3Rp
+					b25hcnmiAHoAfFhOU09iamVjdNIAeAB5AH4A
+					f18QHVVJUkFjY2Vzc2liaWxpdHlFbGVtZW50
+					UmVjb3JkogCAAHxfEB1VSVJBY2Nlc3NpYmls
+					aXR5RWxlbWVudFJlY29yZNIALAAOAIIAVIAl
+					gCPTADAADQAOAIUAlgA/rxAQAIYAhwBcAIkA
+					igCLAFcAjQCOAFoAkACRAJIAkwCUAJWAJoAn
+					gBmAKIApgCqAFIArgCyAF4AtgC6AL4AwgDGA
+					Mq8QEACXAJgAmQBiAJsAYgCdAGcAYgCgAKEA
+					ogBiAKQApQCigDOANIBBgB6AQoAegEOAIYAe
+					gESARYBGgB6AR4BIgEaAIlxBWElkZW50aWZp
+					ZXJXQVhGcmFtZVdBWE1vZGFsVkFYU2l6ZVlB
+					WEZvY3VzZWRWQVhNYWluXEFYRnVsbFNjcmVl
+					blpBWFBvc2l0aW9uXxAPa1VJRWxlbWVudElu
+					ZGV4W0FYTWluaW1pemVkXxARQVhSb2xlRGVz
+					Y3JpcHRpb25ZQVhTdWJyb2xlXxATa1VJRWxl
+					bWVudFJvbGVJbmRleFxGaW5kZXJXaW5kb3fT
+					ADAADQAOALcAugA/ogC4ALmANYA2ogC7ALyA
+					N4A8gCJWb3JpZ2luVHNpemXTADAADQAOAMEA
+					xAA/ogDCAMOAOIA5ogDFAMaAOoA7gCJReFF5
+					I0CHKAAAAAAAI0BUwAAAAAAA0wAwAA0ADgDN
+					ANAAP6IAzgDPgD2APqIA0QDSgD+AQIAiVXdp
+					ZHRoVmhlaWdodCNAgEAAAAAAACNAdkAAAAAA
+					ABAH0wAwAA0ADgDaAN0AP6IAzgDPgD2APqIA
+					0QDSgD+AQIAiWEFYV2luZG93XxAPRXhwYW5z
+					aW9uIFB1bmtz0wAwAA0ADgDkAOcAP6IAwgDD
+					gDiAOaIAxQDGgDqAO4AiEABfEA9zdGFuZGFy
+					ZCB3aW5kb3dfEBBBWFN0YW5kYXJkV2luZG93
+					0gAsAA4A7wBUgEqAI9MAMAANAA4A8gD8AD+p
+					AFcAigD1AIcAiwBcAJEAlQCQgBSAKYBLgCeA
+					KoAZgC6AMoAtqQD9AP4A/wEAAGIBAgCiAKIB
+					BYBMgE2AToBPgB6AUoBGgEaAU4AiXxARQVhS
+					b2xlRGVzY3JpcHRpb25cQVhTcGxpdEdyb3Vw
+					0wAwAA0ADgEKAQ0AP6IAzgDPgD2APqIA0QDS
+					gD+AQIAiW3NwbGl0IGdyb3Vw0wAwAA0ADgET
+					ARYAP6IAuAC5gDWANqIBFwEYgFCAUYAi0wAw
+					AA0ADgEbAR4AP6IAwgDDgDiAOaIAxQDGgDqA
+					O4Ai0wAwAA0ADgEjASYAP6IAzgDPgD2APqIA
+					0QDSgD+AQIAiEAPTADAADQAOASwBLwA/ogDC
+					AMOAOIA5ogDFAMaAOoA7gCLSACwADgE0AFSA
+					VYAj0wAwAA0ADgE3AUEAP6kAVwCKAToAhwCL
+					AFwAkQCVAJCAFIApgFaAJ4AqgBmALoAygC2p
+					AP0BQwD/AUUAYgFHAUgAogFKgEyAV4BOgFmA
+					HoBdgF6ARoBfgCJfEBFBWFJvbGVEZXNjcmlw
+					dGlvbtMAMAANAA4BTgFRAD+iAM4Az4A9gD6i
+					AVIA0oBYgECAIiNAdAAAAAAAANMAMAANAA4B
+					VwFaAD+iALgAuYA1gDaiAVsBXIBagFyAItMA
+					MAANAA4BXwFiAD+iAMIAw4A4gDmiAWMAxoBb
+					gDuAIiNAjWgAAAAAANMAMAANAA4BaAFrAD+i
+					AM4Az4A9gD6iAVIA0oBYgECAIhABEALTADAA
+					DQAOAXIBdQA/ogDCAMOAOIA5ogFjAMaAW4A7
+					gCLSACwADgF6AFSAYYAj0wAwAA0ADgF9AYgA
+					P6oAVwCKAYABgQCHAJEAiwCVAFwAkIAUgCmA
+					YoBjgCeALoAqgDKAGYAtqgGJAYoBiwGMAY0A
+					ogBiAKIBkQGSgGSAZYBngGiAaYBGgB6ARoBt
+					gG6AIlxBWElkZW50aWZpZXJfEBFBWFJvbGVE
+					ZXNjcmlwdGlvblxBWFNjcm9sbEFyZWHTADAA
+					DQAOAZgBmwA/ogDOAM+APYA+ogFSAZ2AWIBm
+					gCIjQHIAAAAAAABXX05TOjE3NFtzY3JvbGwg
+					YXJlYdMAMAANAA4BowGmAD+iALgAuYA1gDai
+					AacBqIBqgGyAItMAMAANAA4BqwGuAD+iAMIA
+					w4A4gDmiAWMBsIBbgGuAIiNAYuAAAAAAANMA
+					MAANAA4BtAG3AD+iAM4Az4A9gD6iAVIBnYBY
+					gGaAIhAI0wAwAA0ADgG9AcAAP6IAwgDDgDiA
+					OaIBYwGwgFuAa4Ai0gAsAA4BxQBUgHCAI9MA
+					MAANAA4ByAHVAD+sAckBygCHAcwAXACKAIsA
+					VwCQAJEB0wCVgHGAcoAngHOAGYApgCqAFIAt
+					gC6AdIAyrAHWAGcB2AHZAdoB2wBnAd0B3gCi
+					AeAAooB1gCGAdoB8gH2AfoAhgH+AgIBGgIGA
+					RoAiXEFYSWRlbnRpZmllcllBWEVuYWJsZWRd
+					QVhEZXNjcmlwdGlvbl8QEUFYUm9sZURlc2Ny
+					aXB0aW9uWExpc3RWaWV30wAwAA0ADgHpAewA
+					P6IAuAC5gDWANqIB7QHugHeAeYAi0wAwAA0A
+					DgHxAfQAP6IAwgDDgDiAOaIBYwH2gFuAeIAi
+					I0BPAAAAAAAA0wAwAA0ADgH6Af0AP6IAzgDP
+					gD2APqIB/gH/gHqAe4AiI0CB4AAAAAAAI0EH
+					MkgAAAAAWWxpc3QgdmlldxEnFtMAMAANAA4C
+					BgIJAD+iAM4Az4A9gD6iAf4B/4B6gHuAIllB
+					WE91dGxpbmXTADAADQAOAg8CEgA/ogDCAMOA
+					OIA5ogFjAfaAW4B4gCJXb3V0bGluZdIALAAO
+					AhgAVICDgCPTADAADQAOAhsCKQA/rQIcAIcA
+					XACKAFcCIQIiAJAAkQIlAiYAlACVgISAJ4AZ
+					gCmAFICFgIaALYAugIeAiIAxgDKtAioCKwBl
+					Ai0CLgFHAGICMQIqAjMAYgI1AiqAiYCKgCCA
+					j4CQgF2AHoCRgImAkoAegJOAiYAiV0FYSW5k
+					ZXhfEBFBWERpc2Nsb3N1cmVMZXZlbFxBWERp
+					c2Nsb3NpbmdfEBFBWFJvbGVEZXNjcmlwdGlv
+					blpBWFNlbGVjdGVkEAvTADAADQAOAj8CQgA/
+					ogC4ALmANYA2ogJDAkSAi4CNgCLTADAADQAO
+					AkcCSgA/ogDCAMOAOIA5ogFjAkyAW4CMgCIj
+					QHFQAAAAAADTADAADQAOAlACUwA/ogDOAM+A
+					PYA+ogH+AlWAeoCOgCIjQDMAAAAAAADTADAA
+					DQAOAlkCXAA/ogDOAM+APYA+ogH+AlWAeoCO
+					gCJVQVhSb3fTADAADQAOAmICZQA/ogDCAMOA
+					OIA5ogFjAkyAW4CMgCJbb3V0bGluZSByb3dc
+					QVhPdXRsaW5lUm930gAsAA4CbABUgJWAI9MA
+					MAANAA4CbwJ9AD+tAnABygCHAFwCdACKAIsA
+					VwCQAJECegImAJWAloBygCeAGYCXgCmAKoAU
+					gC2ALoCYgIiAMq0CfgBnAoABSAKCAoMAZwKF
+					AoYAogKIAGIAooCZgCGAnIBegKGAooAhgKOA
+					pIBGgKWAHoBGgCJfEA9BWFJvd0luZGV4UmFu
+					Z2VfEBJBWENvbHVtbkluZGV4UmFuZ2VfEBFB
+					WFJvbGVEZXNjcmlwdGlvbtMAMAANAA4CkAKT
+					AD+iApECkoCagJuiAioBR4CJgF2AIlhsb2Nh
+					dGlvblZsZW5ndGjTADAADQAOApoCnQA/ogC4
+					ALmANYA2ogKeAp+AnYCfgCLTADAADQAOAqIC
+					pQA/ogDCAMOAOIA5ogKmAkyAnoCMgCIjQI44
+					AAAAAADTADAADQAOAqsCrgA/ogDOAM+APYA+
+					ogKvAlWAoICOgCIjQGMgAAAAAADTADAADQAO
+					ArQCtwA/ogKRApKAmoCbogCiAUeARoBdgCLT
+					ADAADQAOArwCvwA/ogDOAM+APYA+ogKvAlWA
+					oICOgCJWQVhDZWxs0wAwAA0ADgLFAsgAP6IA
+					wgDDgDiAOaICpgJMgJ6AjIAiVGNlbGzSACwA
+					DgLOAFSAp4Aj0wAwAA0ADgLRAuMAP68QEQLS
+					AtMBygBcAIcAigCLAtkAVwLbAJAC3QLeAJEC
+					4AImAJWAqICpgHKAGYAngCmAKoCqgBSAq4At
+					gKyArYAugK6AiIAyrxARAuQC5QBnAKIC6ALp
+					AGIC6wLsAKIC7gLvAvABRwLyAGIAooCvgLCA
+					IYBGgLGAuIAegLmAuoBGgLuAvIC9gF2AvoAe
+					gEaAIl8QE0FYU2VsZWN0ZWRUZXh0UmFuZ2Vf
+					EBRBWE51bWJlck9mQ2hhcmFjdGVyc1pBWEZp
+					bGVuYW1lXxAaQVhJbnNlcnRpb25Qb2ludExp
+					bmVOdW1iZXJfEBdBWFZpc2libGVDaGFyYWN0
+					ZXJSYW5nZVdBWFZhbHVlXxARQVhSb2xlRGVz
+					Y3JpcHRpb27TADAADQAOAv4DAQA/ogKRApKA
+					moCbogCiAKKARoBGgCIQD9MAMAANAA4DBwMK
+					AD+iALgAuYA1gDaiAwsDDICygLWAItMAMAAN
+					AA4DDwMSAD+iAMIAw4A4gDmiAxMDFICzgLSA
+					IiNAjsgAAAAAACNAcXAAAAAAANMAMAANAA4D
+					GQMcAD+iAM4Az4A9gD6iAx0DHoC2gLeAIiNA
+					WwAAAAAAACNALgAAAAAAANMAMAANAA4DIwMm
+					AD+iAM4Az4A9gD6iAx0DHoC2gLeAIl8QD3B1
+					bmstMDAxMHg4LnBuZ1tBWFRleHRGaWVsZNMA
+					MAANAA4DLQMwAD+iAMIAw4A4gDmiAxMDFICz
+					gLSAItMAMAANAA4DNQM4AD+iApECkoCagJui
+					AKIC5YBGgLCAIl8QD3B1bmstMDAxMHg4LnBu
+					Z1p0ZXh0IGZpZWxk0gB4AHkDPwNAXk5TTXV0
+					YWJsZUFycmF5owM/A0EAfFdOU0FycmF50gND
+					AA4DRANFV05TLmRhdGFPENwAAAACAAFANQAA
+					AAMAAUA2AAAAAAABQDcAAAABAALAOESA4WBD
+					jt8AAALAOUORBYBDSr4AAAEAOifzqHkAASbC
+					AAFAOwAAAAAAAUAzAAAeGAABQDQAAW4LAAEA
+					qSfzqHkAASbCAAFAagAAAWQAAUBrAAADhAAB
+					QAcAAAADAAFAAAAAQ74AAUABAAAAAQABQAIA
+					AAD/AAFAAwAAAAAAAUAEAAAAAAABQAUAAAAA
+					AAFABgAAAAAAAUBZAAAACwABQFoAAAC+AAFA
+					WwAAHhgAAUBcAAAeGAABQGwAAAABgMHSAHgA
+					eQNHA0hdTlNNdXRhYmxlRGF0YaMDRwNJAHxW
+					TlNEYXRhI0ATj/xQAAAAXxAiJUAgb24gdGV4
+					dCBmaWVsZCAxIGluIFVJIEVsZW1lbnQgMdIA
+					eAB5A00DTl1VSVJNb3VzZUV2ZW50owNPA1AA
+					fF1VSVJNb3VzZUV2ZW50WFVJUkV2ZW500gB4
+					AHkDQQNSogNBAHzSAHgAeQNUA1VeQU1VSVJV
+					c2VyRXZlbnSiA1YAfF5BTVVJUlVzZXJFdmVu
+					dAAIABkAIgAsADEAOgA/AFEAVgBbAF0B7gH0
+					Af0CCAIPAhICFAIWAjcCQAJUAlwCYgJuAoAC
+					iwKNAo8CkQKTApUClwKZApsCqQKwAwkDEgMb
+					AyQDJwMpAysDNAM/A0EDQwNQA1gDZQNnA2kD
+					awNtA28DcQN+A4ADggOEA4YDiAOKA4wDmgOm
+					A7ID2APyBBcEIAQzBDUENwQ5BDsEPQQ/BEEE
+					QwRFBEcEUARSBFQEYQRyBHQEdgR4BHoEfAR+
+					BIAEggSTBJUElwSZBJsEnQSfBKEEowSlBKwE
+					wQTKBNIE5gUABRoFJgU0BUcFSAVUBVYFVwVg
+					BWsFdAWBBYYFjwWYBbgFvQXdBeYF6AXqBfcG
+					GgYcBh4GIAYiBiQGJgYoBioGLAYuBjAGMgY0
+					BjYGOAY6Bl0GXwZhBmMGZQZnBmkGawZtBm8G
+					cQZzBnUGdwZ5BnsGfQZ/BowGlAacBqMGrQa0
+					BsEGzAbeBuoG/gcIBx4HKwc4Bz0HPwdBB0YH
+					SAdKB0wHUwdYB2UHagdsB24Hcwd1B3cHeQd7
+					B30HhgePB5wHoQejB6UHqgesB64HsAe2B70H
+					xgfPB9EH3gfjB+UH5wfsB+4H8AfyB/sIDQga
+					CB8IIQgjCCgIKggsCC4IMAhCCFUIXghgCGII
+					bwiCCIQIhgiICIoIjAiOCJAIkgiUCKcIqQir
+					CK0IrwixCLMItQi3CLkIuwjPCNwI6QjuCPAI
+					8gj3CPkI+wj9CQkJFgkbCR0JHwkkCSYJKAkq
+					CTcJPAk+CUAJRQlHCUkJSwlYCV0JXwlhCWYJ
+					aAlqCWwJbgl7CYAJggmECYkJiwmNCY8JmAma
+					CZwJqQm8Cb4JwAnCCcQJxgnICcoJzAnOCeEJ
+					4wnlCecJ6QnrCe0J7wnxCfMJ9QoJChYKGwod
+					Ch8KJAomCigKKgozCkAKRQpHCkkKTgpQClIK
+					VAphCmYKaApqCm8KcQpzCnUKfgqLCpAKkgqU
+					CpkKmwqdCp8KoQqjCrAKtQq3CrkKvgrACsIK
+					xArNCs8K0QreCvMK9Qr3CvkK+wr9Cv8LAQsD
+					CwULBwscCx4LIAsiCyQLJgsoCyoLLAsuCzAL
+					Mgs/C1MLYAttC3ILdAt2C3sLfQt/C4ELiguS
+					C54LqwuwC7ILtAu5C7sLvQu/C8wL0QvTC9UL
+					2gvcC94L4AvpC/YL+wv9C/8MBAwGDAgMCgwM
+					DBkMHgwgDCIMJwwpDCsMLQw2DDgMOgxHDGAM
+					YgxkDGYMaAxqDGwMbgxwDHIMdAx2DHgMkQyT
+					DJUMlwyZDJsMnQyfDKEMowylDKcMqQyrDLgM
+					wgzQDOQM7Qz6DP8NAQ0DDQgNCg0MDQ4NGw0g
+					DSINJA0pDSsNLQ0vDTgNRQ1KDUwNTg1TDVUN
+					Vw1ZDWINaw11DXgNhQ2KDYwNjg2TDZUNlw2Z
+					DaMNsA21DbcNuQ2+DcANwg3EDcwN1Q3XDdkN
+					5g4BDgMOBQ4HDgkOCw4NDg8OEQ4TDhUOFw4Z
+					DhsONg44DjoOPA4+DkAOQg5EDkYOSA5KDkwO
+					Tg5QDlIOWg5uDnsOjw6aDpwOqQ6uDrAOsg63
+					DrkOuw69DsoOzw7RDtMO2A7aDtwO3g7nDvQO
+					+Q77Dv0PAg8EDwYPCA8RDx4PIw8lDycPLA8u
+					DzAPMg84D0UPSg9MD04PUw9VD1cPWQ9lD3IP
+					ew99D38PjA+nD6kPqw+tD68PsQ+zD7UPtw+5
+					D7sPvQ+/D8EP3A/eD+AP4g/kD+YP6A/qD+wP
+					7g/wD/IP9A/2D/gQChAfEDMQQBBFEEcQSRBO
+					EFAQUhBUEF0QZBBxEHYQeBB6EH8QgRCDEIUQ
+					khCXEJkQmxCgEKIQpBCmEK8QvBDBEMMQxRDK
+					EMwQzhDQENkQ5hDrEO0Q7xD0EPYQ+BD6EQcR
+					DBEOERARFREXERkRGxEiES8RNBE2ETgRPRE/
+					EUERQxFIEVERUxFVEWIRhxGJEYsRjRGPEZER
+					kxGVEZcRmRGbEZ0RnxGhEaMRpRGnEakRzhHQ
+					EdIR1BHWEdgR2hHcEd4R4BHiEeQR5hHoEeoR
+					7BHuEfAR8hIIEh8SKhJHEmESaRJ9EooSjxKR
+					EpMSmBKaEpwSnhKgEq0SshK0ErYSuxK9Er8S
+					wRLOEtMS1RLXEtwS3hLgEuIS6xL0EwETBhMI
+					EwoTDxMRExMTFRMeEycTNBM5EzsTPRNCE0QT
+					RhNIE1oTZhNzE3gTehN8E4ETgxOFE4cTlBOZ
+					E5sTnROiE6QTphOoE7oTxRPOE90T5BPsE/UT
+					/RTcFN4U5xT1FPwVAxUMFTEVOhVIFU8VXRVm
+					FW8VdBV9FYwVkQAAAAAAAAICAAAAAAAAA1cA
+					AAAAAAAAAAAAAAAAABWg
+					</data>
+				</dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.Automator.WatchMeDo</string>
+				<key>CFBundleVersion</key>
+				<string>1.0.2</string>
+				<key>CanShowSelectedItemsWhenRun</key>
+				<false/>
+				<key>CanShowWhenRun</key>
+				<true/>
+				<key>Category</key>
+				<array>
+					<string>AMCategoryUtilities</string>
+				</array>
+				<key>Class Name</key>
+				<string>AMWatchMeDoAction</string>
+				<key>InputUUID</key>
+				<string>E47D59C2-2CD6-4251-93A9-49BD3067704C</string>
+				<key>Keywords</key>
+				<array>
+					<string>Events</string>
+					<string>Play</string>
+					<string>Record</string>
+				</array>
+				<key>OutputUUID</key>
+				<string>7F288108-2AFE-458A-987C-BCFC0F81EC1B</string>
+				<key>ShowWhenRun</key>
+				<true/>
+				<key>UUID</key>
+				<string>B183FC74-A7E6-4F89-90F0-B591104DD481</string>
+				<key>UnlocalizedApplications</key>
+				<array>
+					<string>Automator</string>
+				</array>
+				<key>arguments</key>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>default value</key>
+						<real>1000</real>
+						<key>name</key>
+						<string>timeoutCount_MAX</string>
+						<key>required</key>
+						<string>0</string>
+						<key>type</key>
+						<string>0</string>
+						<key>uuid</key>
+						<string>0</string>
+					</dict>
+					<key>1</key>
+					<dict>
+						<key>default value</key>
+						<real>-1</real>
+						<key>name</key>
+						<string>playbackSpeed_MIN</string>
+						<key>required</key>
+						<string>0</string>
+						<key>type</key>
+						<string>0</string>
+						<key>uuid</key>
+						<string>1</string>
+					</dict>
+					<key>2</key>
+					<dict>
+						<key>default value</key>
+						<true/>
+						<key>name</key>
+						<string>timeoutPerEvent</string>
+						<key>required</key>
+						<string>0</string>
+						<key>type</key>
+						<string>0</string>
+						<key>uuid</key>
+						<string>2</string>
+					</dict>
+					<key>3</key>
+					<dict>
+						<key>default value</key>
+						<data>
+						</data>
+						<key>name</key>
+						<string>userEvents</string>
+						<key>required</key>
+						<string>0</string>
+						<key>type</key>
+						<string>0</string>
+						<key>uuid</key>
+						<string>3</string>
+					</dict>
+					<key>4</key>
+					<dict>
+						<key>default value</key>
+						<real>1</real>
+						<key>name</key>
+						<string>playbackSpeed_MAX</string>
+						<key>required</key>
+						<string>0</string>
+						<key>type</key>
+						<string>0</string>
+						<key>uuid</key>
+						<string>4</string>
+					</dict>
+					<key>5</key>
+					<dict>
+						<key>default value</key>
+						<real>0.0</real>
+						<key>name</key>
+						<string>timeoutCount_MIN</string>
+						<key>required</key>
+						<string>0</string>
+						<key>type</key>
+						<string>0</string>
+						<key>uuid</key>
+						<string>5</string>
+					</dict>
+					<key>6</key>
+					<dict>
+						<key>default value</key>
+						<real>2</real>
+						<key>name</key>
+						<string>timeoutCount</string>
+						<key>required</key>
+						<string>0</string>
+						<key>type</key>
+						<string>0</string>
+						<key>uuid</key>
+						<string>6</string>
+					</dict>
+					<key>7</key>
+					<dict>
+						<key>default value</key>
+						<real>0.0</real>
+						<key>name</key>
+						<string>playbackSpeed</string>
+						<key>required</key>
+						<string>0</string>
+						<key>type</key>
+						<string>0</string>
+						<key>uuid</key>
+						<string>7</string>
+					</dict>
+					<key>8</key>
+					<dict>
+						<key>default value</key>
+						<true/>
+						<key>name</key>
+						<string>timeoutIsError</string>
+						<key>required</key>
+						<string>0</string>
+						<key>type</key>
+						<string>0</string>
+						<key>uuid</key>
+						<string>8</string>
+					</dict>
+				</dict>
+				<key>isViewVisible</key>
+				<true/>
+				<key>location</key>
+				<string>318.500000:502.000000</string>
+				<key>nibPath</key>
+				<string>/System/Library/Automator/Watch Me Do.action/Contents/Resources/Base.lproj/main.nib</string>
+			</dict>
+			<key>isViewVisible</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>action</key>
+			<dict>
+				<key>AMAccepts</key>
+				<dict>
+					<key>Container</key>
+					<string>List</string>
+					<key>Optional</key>
+					<false/>
+					<key>Types</key>
+					<array>
+						<string>com.apple.cocoa.path</string>
+					</array>
+				</dict>
+				<key>AMActionVersion</key>
+				<string>1.1.2</string>
+				<key>AMApplication</key>
+				<array>
+					<string>Finder</string>
+				</array>
+				<key>AMParameterProperties</key>
+				<dict>
+					<key>replaceExisting</key>
+					<dict/>
+					<key>toDirectory</key>
+					<dict>
+						<key>isPathPopUp</key>
+						<true/>
+						<key>variableUUIDsInMenu</key>
+						<array/>
+					</dict>
+				</dict>
+				<key>AMProvides</key>
+				<dict>
+					<key>Container</key>
+					<string>List</string>
+					<key>Types</key>
+					<array>
+						<string>com.apple.cocoa.path</string>
+					</array>
+				</dict>
+				<key>ActionBundlePath</key>
+				<string>/System/Library/Automator/Move Finder Items.action</string>
+				<key>ActionName</key>
+				<string>Move Finder Items</string>
+				<key>ActionParameters</key>
+				<dict>
+					<key>replaceExisting</key>
+					<false/>
+					<key>toDirectory</key>
+					<string>~/Desktop</string>
+				</dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.Automator.MoveFiles</string>
+				<key>CFBundleVersion</key>
+				<string>1.1.2</string>
+				<key>CanShowSelectedItemsWhenRun</key>
+				<true/>
+				<key>CanShowWhenRun</key>
+				<true/>
+				<key>Category</key>
+				<array>
+					<string>AMCategoryFilesAndFolders</string>
+				</array>
+				<key>Class Name</key>
+				<string>MoveFilesAction</string>
+				<key>InputUUID</key>
+				<string>C8584EB8-9902-4566-869C-9765A8632232</string>
+				<key>Keywords</key>
+				<array>
+					<string>File</string>
+					<string>Move</string>
+				</array>
+				<key>OutputUUID</key>
+				<string>C80DB5E2-7525-4A13-84CA-279E4F825BA3</string>
+				<key>UUID</key>
+				<string>BC7DC4C5-01F4-4DAD-AE55-F0FEDD750B19</string>
+				<key>UnlocalizedApplications</key>
+				<array>
+					<string>Finder</string>
+				</array>
+				<key>arguments</key>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>default value</key>
+						<string>~/Desktop</string>
+						<key>name</key>
+						<string>toDirectory</string>
+						<key>required</key>
+						<string>0</string>
+						<key>type</key>
+						<string>0</string>
+						<key>uuid</key>
+						<string>0</string>
+					</dict>
+					<key>1</key>
+					<dict>
+						<key>default value</key>
+						<false/>
+						<key>name</key>
+						<string>replaceExisting</string>
+						<key>required</key>
+						<string>0</string>
+						<key>type</key>
+						<string>0</string>
+						<key>uuid</key>
+						<string>1</string>
+					</dict>
+				</dict>
+				<key>isViewVisible</key>
+				<true/>
+				<key>location</key>
+				<string>318.500000:604.000000</string>
+				<key>nibPath</key>
+				<string>/System/Library/Automator/Move Finder Items.action/Contents/Resources/Base.lproj/main.nib</string>
+			</dict>
+			<key>isViewVisible</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>action</key>
+			<dict>
+				<key>AMAccepts</key>
+				<dict>
+					<key>Container</key>
+					<string>List</string>
+					<key>Optional</key>
+					<true/>
+					<key>Types</key>
+					<array>
+						<string>*</string>
+					</array>
+				</dict>
+				<key>AMActionVersion</key>
+				<string>1.0.2</string>
+				<key>AMApplication</key>
+				<array>
+					<string>Automator</string>
+				</array>
+				<key>AMParameterProperties</key>
+				<dict>
+					<key>playbackSpeed</key>
+					<dict/>
+					<key>playbackSpeed_MAX</key>
+					<dict/>
+					<key>playbackSpeed_MIN</key>
+					<dict/>
+					<key>timeoutCount</key>
+					<dict/>
+					<key>timeoutCount_MAX</key>
+					<dict/>
+					<key>timeoutCount_MIN</key>
+					<dict/>
+					<key>timeoutIsError</key>
+					<dict/>
+					<key>timeoutPerEvent</key>
+					<dict/>
+					<key>userEvents</key>
+					<dict/>
+				</dict>
+				<key>AMProvides</key>
+				<dict>
+					<key>Container</key>
+					<string>List</string>
+					<key>Types</key>
+					<array>
+						<string>*</string>
+					</array>
+				</dict>
+				<key>AMRequiredResources</key>
+				<array/>
+				<key>ActionBundlePath</key>
+				<string>/System/Library/Automator/Watch Me Do.action</string>
+				<key>ActionName</key>
+				<string>Watch Me Do</string>
+				<key>ActionParameters</key>
+				<dict>
+					<key>playbackSpeed</key>
+					<real>0.0</real>
+					<key>playbackSpeed_MAX</key>
+					<real>1</real>
+					<key>playbackSpeed_MIN</key>
+					<real>-1</real>
+					<key>timeoutCount</key>
+					<real>2</real>
+					<key>timeoutCount_MAX</key>
+					<real>1000</real>
+					<key>timeoutCount_MIN</key>
+					<real>0.0</real>
+					<key>timeoutIsError</key>
+					<true/>
+					<key>timeoutPerEvent</key>
+					<true/>
+					<key>userEvents</key>
+					<data>
+					YnBsaXN0MDDUAAEAAgADAAQABQAGAAcAClgk
+					dmVyc2lvblkkYXJjaGl2ZXJUJHRvcFgkb2Jq
+					ZWN0cxIAAYagXxAPTlNLZXllZEFyY2hpdmVy
+					0QAIAAlUcm9vdIABrxDHAAsADAASACIAIwAk
+					ACUAJgAnACsALwBAAEEAQgBDAEQARQBGAFIA
+					VQBpAGoAawBsAG0AbgBvAHAAcQByAHMAdAB1
+					AHYAdwB9AIEAhACoAKkAqgCrAKwArQCuAK8A
+					sACxALIAswC0ALUAtgC+AL8AwADIAMkAygDL
+					AMwA1ADVANYA1wDYANkA4QDiAOMA6wDsAO0A
+					7gDxAQcBCAEJAREBEgEaASIBKgErATMBNgFM
+					AU0BVQFWAV4BZgFnAW8BcAFxAXkBfAGUAZUB
+					lgGXAZ8BoAGhAaIBqgGyAbMBuwG8AcQBxwHj
+					AeQB5QHmAecB6AHwAfgB+QIBAgICAwIEAgUC
+					DQIOAhYCFwIaAjgCOQI6AjsCPAI9Aj4CRgJO
+					Ak8CVwJYAmACYQJpAmoCawJuAowCjQKOAo8C
+					lwKYApkCoQKpAqoCsgKzArsCwwLEAswCzQLQ
+					AvYC9wL4AvkC+gL7AvwC/QMFAwYDDgMWAxcD
+					GAMgAyEDIgMqAysDLAM0AzwDPQM+A0IDRgNK
+					A0sDTANRA1NVJG51bGzSAA0ADgAPABFaTlMu
+					b2JqZWN0c1YkY2xhc3OhABCAAoDF2AATAA4A
+					FAAVABYAFwAYABkAGgAbABwAHQAeAB8AIAAh
+					WHVpRXZlbnRzXxARc2NyZWVuQ2FwdHVyZURh
+					dGFXdGltZW91dFVkZWxheVtwcm9jZXNzTmFt
+					ZV8QD3VzZXJEZXNjcmlwdGlvblphY3Rpb25O
+					YW1lgAiAxoAAgAeABoAEgAWAA11Nb3VzZSBD
+					bGlja2VkVkZpbmRlcm8QKwBUAHkAcABlACAg
+					HABwAHUAbgBrAC0AMAAwADEAMAB4ADgALgBw
+					AG4AZyAdACAAaQBuAHQAbwAgAHQAaABlACAA
+					dABlAHgAdAAgAGYAaQBlAGwAZAAuI0ATj/xQ
+					AAAAI0AAAAAAAAAA0gANAA4AKAARoQApgAmA
+					xdIALAAOAC0ALlpwcm9wZXJ0aWVzgAqAxNMA
+					MAANAA4AMQA4AD9XTlMua2V5c6YAMgAzADQA
+					NQA2ADeAC4AMgA2ADoAPgBCmADkAOgAfADwA
+					PQAdgBGAwIAEgMKAw4AHgCJdY2hpbGRyZW5T
+					dGFja1tjZ0V2ZW50RGF0YVtwcm9jZXNzTmFt
+					ZV8QI2tVSVJFdmVudERlbGF5U2Vjb25kc0Jl
+					Zm9yZVBsYXliYWNrXxAXZGVzY3JpcHRpb25G
+					b3JtYXRTdHJpbmdfECJrVUlSRXZlbnRUaW1l
+					b3V0U2Vjb25kc0ZvclBsYXliYWNr0gANAA4A
+					RwBRqQBIAEkASgBLAEwATQBOAE8AUIASgCSA
+					SYBUgGCAb4CCgJSApoC/0gAsAA4AUwBUgBOA
+					I9MAMAANAA4AVgBfAD+oAFcAWABZAFoAWwBc
+					AF0AXoAUgBWAFoAXgBiAGYAagBuoAGAAYQBi
+					AB8AZABlAGIAZ4AcgB2AHoAEgB+AIIAegCGA
+					IlZBWFJvbGVfEBJDRkJ1bmRsZUlkZW50aWZp
+					ZXJYQVhIaWRkZW5XQVhUaXRsZV8QEUFYUm9s
+					ZURlc2NyaXB0aW9uXxAXa1VJRWxlbWVudENo
+					aWxkcmVuQ291bnRfEBdBWEVuaGFuY2VkVXNl
+					ckludGVyZmFjZVtBWEZyb250bW9zdF1BWEFw
+					cGxpY2F0aW9uXxAQY29tLmFwcGxlLmZpbmRl
+					cghbYXBwbGljYXRpb24QBAnSAHgAeQB6AHta
+					JGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0RpY3Rp
+					b25hcnmiAHoAfFhOU09iamVjdNIAeAB5AH4A
+					f18QHVVJUkFjY2Vzc2liaWxpdHlFbGVtZW50
+					UmVjb3JkogCAAHxfEB1VSVJBY2Nlc3NpYmls
+					aXR5RWxlbWVudFJlY29yZNIALAAOAIIAVIAl
+					gCPTADAADQAOAIUAlgA/rxAQAIYAhwBcAIkA
+					igCLAFcAjQCOAFoAkACRAJIAkwCUAJWAJoAn
+					gBmAKIApgCqAFIArgCyAF4AtgC6AL4AwgDGA
+					Mq8QEACXAJgAmQBiAJsAYgCdAGcAYgCgAKEA
+					ogBiAKQApQCigDOANIBBgB6AQoAegEOAIYAe
+					gESARYBGgB6AR4BIgEaAIlxBWElkZW50aWZp
+					ZXJXQVhGcmFtZVdBWE1vZGFsVkFYU2l6ZVlB
+					WEZvY3VzZWRWQVhNYWluXEFYRnVsbFNjcmVl
+					blpBWFBvc2l0aW9uXxAPa1VJRWxlbWVudElu
+					ZGV4W0FYTWluaW1pemVkXxARQVhSb2xlRGVz
+					Y3JpcHRpb25ZQVhTdWJyb2xlXxATa1VJRWxl
+					bWVudFJvbGVJbmRleFxGaW5kZXJXaW5kb3fT
+					ADAADQAOALcAugA/ogC4ALmANYA2ogC7ALyA
+					N4A8gCJWb3JpZ2luVHNpemXTADAADQAOAMEA
+					xAA/ogDCAMOAOIA5ogDFAMaAOoA7gCJReFF5
+					I0CHKAAAAAAAI0BUwAAAAAAA0wAwAA0ADgDN
+					ANAAP6IAzgDPgD2APqIA0QDSgD+AQIAiVXdp
+					ZHRoVmhlaWdodCNAgEAAAAAAACNAdkAAAAAA
+					ABAH0wAwAA0ADgDaAN0AP6IAzgDPgD2APqIA
+					0QDSgD+AQIAiWEFYV2luZG93XxAPRXhwYW5z
+					aW9uIFB1bmtz0wAwAA0ADgDkAOcAP6IAwgDD
+					gDiAOaIAxQDGgDqAO4AiEABfEA9zdGFuZGFy
+					ZCB3aW5kb3dfEBBBWFN0YW5kYXJkV2luZG93
+					0gAsAA4A7wBUgEqAI9MAMAANAA4A8gD8AD+p
+					AFcAigD1AIcAiwBcAJEAlQCQgBSAKYBLgCeA
+					KoAZgC6AMoAtqQD9AP4A/wEAAGIBAgCiAKIB
+					BYBMgE2AToBPgB6AUoBGgEaAU4AiXxARQVhS
+					b2xlRGVzY3JpcHRpb25cQVhTcGxpdEdyb3Vw
+					0wAwAA0ADgEKAQ0AP6IAzgDPgD2APqIA0QDS
+					gD+AQIAiW3NwbGl0IGdyb3Vw0wAwAA0ADgET
+					ARYAP6IAuAC5gDWANqIBFwEYgFCAUYAi0wAw
+					AA0ADgEbAR4AP6IAwgDDgDiAOaIAxQDGgDqA
+					O4Ai0wAwAA0ADgEjASYAP6IAzgDPgD2APqIA
+					0QDSgD+AQIAiEAPTADAADQAOASwBLwA/ogDC
+					AMOAOIA5ogDFAMaAOoA7gCLSACwADgE0AFSA
+					VYAj0wAwAA0ADgE3AUEAP6kAVwCKAToAhwCL
+					AFwAkQCVAJCAFIApgFaAJ4AqgBmALoAygC2p
+					AP0BQwD/AUUAYgFHAUgAogFKgEyAV4BOgFmA
+					HoBdgF6ARoBfgCJfEBFBWFJvbGVEZXNjcmlw
+					dGlvbtMAMAANAA4BTgFRAD+iAM4Az4A9gD6i
+					AVIA0oBYgECAIiNAdAAAAAAAANMAMAANAA4B
+					VwFaAD+iALgAuYA1gDaiAVsBXIBagFyAItMA
+					MAANAA4BXwFiAD+iAMIAw4A4gDmiAWMAxoBb
+					gDuAIiNAjWgAAAAAANMAMAANAA4BaAFrAD+i
+					AM4Az4A9gD6iAVIA0oBYgECAIhABEALTADAA
+					DQAOAXIBdQA/ogDCAMOAOIA5ogFjAMaAW4A7
+					gCLSACwADgF6AFSAYYAj0wAwAA0ADgF9AYgA
+					P6oAVwCKAYABgQCHAJEAiwCVAFwAkIAUgCmA
+					YoBjgCeALoAqgDKAGYAtqgGJAYoBiwGMAY0A
+					ogBiAKIBkQGSgGSAZYBngGiAaYBGgB6ARoBt
+					gG6AIlxBWElkZW50aWZpZXJfEBFBWFJvbGVE
+					ZXNjcmlwdGlvblxBWFNjcm9sbEFyZWHTADAA
+					DQAOAZgBmwA/ogDOAM+APYA+ogFSAZ2AWIBm
+					gCIjQHIAAAAAAABXX05TOjE3NFtzY3JvbGwg
+					YXJlYdMAMAANAA4BowGmAD+iALgAuYA1gDai
+					AacBqIBqgGyAItMAMAANAA4BqwGuAD+iAMIA
+					w4A4gDmiAWMBsIBbgGuAIiNAYuAAAAAAANMA
+					MAANAA4BtAG3AD+iAM4Az4A9gD6iAVIBnYBY
+					gGaAIhAI0wAwAA0ADgG9AcAAP6IAwgDDgDiA
+					OaIBYwGwgFuAa4Ai0gAsAA4BxQBUgHCAI9MA
+					MAANAA4ByAHVAD+sAckBygCHAcwAXACKAIsA
+					VwCQAJEB0wCVgHGAcoAngHOAGYApgCqAFIAt
+					gC6AdIAyrAHWAGcB2AHZAdoB2wBnAd0B3gCi
+					AeAAooB1gCGAdoB8gH2AfoAhgH+AgIBGgIGA
+					RoAiXEFYSWRlbnRpZmllcllBWEVuYWJsZWRd
+					QVhEZXNjcmlwdGlvbl8QEUFYUm9sZURlc2Ny
+					aXB0aW9uWExpc3RWaWV30wAwAA0ADgHpAewA
+					P6IAuAC5gDWANqIB7QHugHeAeYAi0wAwAA0A
+					DgHxAfQAP6IAwgDDgDiAOaIBYwH2gFuAeIAi
+					I0BPAAAAAAAA0wAwAA0ADgH6Af0AP6IAzgDP
+					gD2APqIB/gH/gHqAe4AiI0CB4AAAAAAAI0EH
+					MkgAAAAAWWxpc3QgdmlldxEnFtMAMAANAA4C
+					BgIJAD+iAM4Az4A9gD6iAf4B/4B6gHuAIllB
+					WE91dGxpbmXTADAADQAOAg8CEgA/ogDCAMOA
+					OIA5ogFjAfaAW4B4gCJXb3V0bGluZdIALAAO
+					AhgAVICDgCPTADAADQAOAhsCKQA/rQIcAIcA
+					XACKAFcCIQIiAJAAkQIlAiYAlACVgISAJ4AZ
+					gCmAFICFgIaALYAugIeAiIAxgDKtAioCKwBl
+					Ai0CLgFHAGICMQIqAjMAYgI1AiqAiYCKgCCA
+					j4CQgF2AHoCRgImAkoAegJOAiYAiV0FYSW5k
+					ZXhfEBFBWERpc2Nsb3N1cmVMZXZlbFxBWERp
+					c2Nsb3NpbmdfEBFBWFJvbGVEZXNjcmlwdGlv
+					blpBWFNlbGVjdGVkEAvTADAADQAOAj8CQgA/
+					ogC4ALmANYA2ogJDAkSAi4CNgCLTADAADQAO
+					AkcCSgA/ogDCAMOAOIA5ogFjAkyAW4CMgCIj
+					QHFQAAAAAADTADAADQAOAlACUwA/ogDOAM+A
+					PYA+ogH+AlWAeoCOgCIjQDMAAAAAAADTADAA
+					DQAOAlkCXAA/ogDOAM+APYA+ogH+AlWAeoCO
+					gCJVQVhSb3fTADAADQAOAmICZQA/ogDCAMOA
+					OIA5ogFjAkyAW4CMgCJbb3V0bGluZSByb3dc
+					QVhPdXRsaW5lUm930gAsAA4CbABUgJWAI9MA
+					MAANAA4CbwJ9AD+tAnABygCHAFwCdACKAIsA
+					VwCQAJECegImAJWAloBygCeAGYCXgCmAKoAU
+					gC2ALoCYgIiAMq0CfgBnAoABSAKCAoMAZwKF
+					AoYAogKIAGIAooCZgCGAnIBegKGAooAhgKOA
+					pIBGgKWAHoBGgCJfEA9BWFJvd0luZGV4UmFu
+					Z2VfEBJBWENvbHVtbkluZGV4UmFuZ2VfEBFB
+					WFJvbGVEZXNjcmlwdGlvbtMAMAANAA4CkAKT
+					AD+iApECkoCagJuiAioBR4CJgF2AIlhsb2Nh
+					dGlvblZsZW5ndGjTADAADQAOApoCnQA/ogC4
+					ALmANYA2ogKeAp+AnYCfgCLTADAADQAOAqIC
+					pQA/ogDCAMOAOIA5ogKmAkyAnoCMgCIjQI44
+					AAAAAADTADAADQAOAqsCrgA/ogDOAM+APYA+
+					ogKvAlWAoICOgCIjQGMgAAAAAADTADAADQAO
+					ArQCtwA/ogKRApKAmoCbogCiAUeARoBdgCLT
+					ADAADQAOArwCvwA/ogDOAM+APYA+ogKvAlWA
+					oICOgCJWQVhDZWxs0wAwAA0ADgLFAsgAP6IA
+					wgDDgDiAOaICpgJMgJ6AjIAiVGNlbGzSACwA
+					DgLOAFSAp4Aj0wAwAA0ADgLRAuMAP68QEQLS
+					AtMBygBcAIcAigCLAtkAVwLbAJAC3QLeAJEC
+					4AImAJWAqICpgHKAGYAngCmAKoCqgBSAq4At
+					gKyArYAugK6AiIAyrxARAuQC5QBnAKIC6ALp
+					AGIC6wLsAKIC7gLvAvABRwLyAGIAooCvgLCA
+					IYBGgLGAuIAegLmAuoBGgLuAvIC9gF2AvoAe
+					gEaAIl8QE0FYU2VsZWN0ZWRUZXh0UmFuZ2Vf
+					EBRBWE51bWJlck9mQ2hhcmFjdGVyc1pBWEZp
+					bGVuYW1lXxAaQVhJbnNlcnRpb25Qb2ludExp
+					bmVOdW1iZXJfEBdBWFZpc2libGVDaGFyYWN0
+					ZXJSYW5nZVdBWFZhbHVlXxARQVhSb2xlRGVz
+					Y3JpcHRpb27TADAADQAOAv4DAQA/ogKRApKA
+					moCbogCiAKKARoBGgCIQD9MAMAANAA4DBwMK
+					AD+iALgAuYA1gDaiAwsDDICygLWAItMAMAAN
+					AA4DDwMSAD+iAMIAw4A4gDmiAxMDFICzgLSA
+					IiNAjsgAAAAAACNAcXAAAAAAANMAMAANAA4D
+					GQMcAD+iAM4Az4A9gD6iAx0DHoC2gLeAIiNA
+					WwAAAAAAACNALgAAAAAAANMAMAANAA4DIwMm
+					AD+iAM4Az4A9gD6iAx0DHoC2gLeAIl8QD3B1
+					bmstMDAxMHg4LnBuZ1tBWFRleHRGaWVsZNMA
+					MAANAA4DLQMwAD+iAMIAw4A4gDmiAxMDFICz
+					gLSAItMAMAANAA4DNQM4AD+iApECkoCagJui
+					AKIC5YBGgLCAIl8QD3B1bmstMDAxMHg4LnBu
+					Z1p0ZXh0IGZpZWxk0gB4AHkDPwNAXk5TTXV0
+					YWJsZUFycmF5owM/A0EAfFdOU0FycmF50gND
+					AA4DRANFV05TLmRhdGFPENwAAAACAAFANQAA
+					AAMAAUA2AAAAAAABQDcAAAABAALAOESA4WBD
+					jt8AAALAOUORBYBDSr4AAAEAOifzqHkAASbC
+					AAFAOwAAAAAAAUAzAAAeGAABQDQAAW4LAAEA
+					qSfzqHkAASbCAAFAagAAAWQAAUBrAAADhAAB
+					QAcAAAADAAFAAAAAQ74AAUABAAAAAQABQAIA
+					AAD/AAFAAwAAAAAAAUAEAAAAAAABQAUAAAAA
+					AAFABgAAAAAAAUBZAAAACwABQFoAAAC+AAFA
+					WwAAHhgAAUBcAAAeGAABQGwAAAABgMHSAHgA
+					eQNHA0hdTlNNdXRhYmxlRGF0YaMDRwNJAHxW
+					TlNEYXRhI0ATj/xQAAAAXxAiJUAgb24gdGV4
+					dCBmaWVsZCAxIGluIFVJIEVsZW1lbnQgMdIA
+					eAB5A00DTl1VSVJNb3VzZUV2ZW50owNPA1AA
+					fF1VSVJNb3VzZUV2ZW50WFVJUkV2ZW500gB4
+					AHkDQQNSogNBAHzSAHgAeQNUA1VeQU1VSVJV
+					c2VyRXZlbnSiA1YAfF5BTVVJUlVzZXJFdmVu
+					dAAIABkAIgAsADEAOgA/AFEAVgBbAF0B7gH0
+					Af0CCAIPAhICFAIWAjcCQAJUAlwCYgJuAoAC
+					iwKNAo8CkQKTApUClwKZApsCqQKwAwkDEgMb
+					AyQDJwMpAysDNAM/A0EDQwNQA1gDZQNnA2kD
+					awNtA28DcQN+A4ADggOEA4YDiAOKA4wDmgOm
+					A7ID2APyBBcEIAQzBDUENwQ5BDsEPQQ/BEEE
+					QwRFBEcEUARSBFQEYQRyBHQEdgR4BHoEfAR+
+					BIAEggSTBJUElwSZBJsEnQSfBKEEowSlBKwE
+					wQTKBNIE5gUABRoFJgU0BUcFSAVUBVYFVwVg
+					BWsFdAWBBYYFjwWYBbgFvQXdBeYF6AXqBfcG
+					GgYcBh4GIAYiBiQGJgYoBioGLAYuBjAGMgY0
+					BjYGOAY6Bl0GXwZhBmMGZQZnBmkGawZtBm8G
+					cQZzBnUGdwZ5BnsGfQZ/BowGlAacBqMGrQa0
+					BsEGzAbeBuoG/gcIBx4HKwc4Bz0HPwdBB0YH
+					SAdKB0wHUwdYB2UHagdsB24Hcwd1B3cHeQd7
+					B30HhgePB5wHoQejB6UHqgesB64HsAe2B70H
+					xgfPB9EH3gfjB+UH5wfsB+4H8AfyB/sIDQga
+					CB8IIQgjCCgIKggsCC4IMAhCCFUIXghgCGII
+					bwiCCIQIhgiICIoIjAiOCJAIkgiUCKcIqQir
+					CK0IrwixCLMItQi3CLkIuwjPCNwI6QjuCPAI
+					8gj3CPkI+wj9CQkJFgkbCR0JHwkkCSYJKAkq
+					CTcJPAk+CUAJRQlHCUkJSwlYCV0JXwlhCWYJ
+					aAlqCWwJbgl7CYAJggmECYkJiwmNCY8JmAma
+					CZwJqQm8Cb4JwAnCCcQJxgnICcoJzAnOCeEJ
+					4wnlCecJ6QnrCe0J7wnxCfMJ9QoJChYKGwod
+					Ch8KJAomCigKKgozCkAKRQpHCkkKTgpQClIK
+					VAphCmYKaApqCm8KcQpzCnUKfgqLCpAKkgqU
+					CpkKmwqdCp8KoQqjCrAKtQq3CrkKvgrACsIK
+					xArNCs8K0QreCvMK9Qr3CvkK+wr9Cv8LAQsD
+					CwULBwscCx4LIAsiCyQLJgsoCyoLLAsuCzAL
+					Mgs/C1MLYAttC3ILdAt2C3sLfQt/C4ELiguS
+					C54LqwuwC7ILtAu5C7sLvQu/C8wL0QvTC9UL
+					2gvcC94L4AvpC/YL+wv9C/8MBAwGDAgMCgwM
+					DBkMHgwgDCIMJwwpDCsMLQw2DDgMOgxHDGAM
+					YgxkDGYMaAxqDGwMbgxwDHIMdAx2DHgMkQyT
+					DJUMlwyZDJsMnQyfDKEMowylDKcMqQyrDLgM
+					wgzQDOQM7Qz6DP8NAQ0DDQgNCg0MDQ4NGw0g
+					DSINJA0pDSsNLQ0vDTgNRQ1KDUwNTg1TDVUN
+					Vw1ZDWINaw11DXgNhQ2KDYwNjg2TDZUNlw2Z
+					DaMNsA21DbcNuQ2+DcANwg3EDcwN1Q3XDdkN
+					5g4BDgMOBQ4HDgkOCw4NDg8OEQ4TDhUOFw4Z
+					DhsONg44DjoOPA4+DkAOQg5EDkYOSA5KDkwO
+					Tg5QDlIOWg5uDnsOjw6aDpwOqQ6uDrAOsg63
+					DrkOuw69DsoOzw7RDtMO2A7aDtwO3g7nDvQO
+					+Q77Dv0PAg8EDwYPCA8RDx4PIw8lDycPLA8u
+					DzAPMg84D0UPSg9MD04PUw9VD1cPWQ9lD3IP
+					ew99D38PjA+nD6kPqw+tD68PsQ+zD7UPtw+5
+					D7sPvQ+/D8EP3A/eD+AP4g/kD+YP6A/qD+wP
+					7g/wD/IP9A/2D/gQChAfEDMQQBBFEEcQSRBO
+					EFAQUhBUEF0QZBBxEHYQeBB6EH8QgRCDEIUQ
+					khCXEJkQmxCgEKIQpBCmEK8QvBDBEMMQxRDK
+					EMwQzhDQENkQ5hDrEO0Q7xD0EPYQ+BD6EQcR
+					DBEOERARFREXERkRGxEiES8RNBE2ETgRPRE/
+					EUERQxFIEVERUxFVEWIRhxGJEYsRjRGPEZER
+					kxGVEZcRmRGbEZ0RnxGhEaMRpRGnEakRzhHQ
+					EdIR1BHWEdgR2hHcEd4R4BHiEeQR5hHoEeoR
+					7BHuEfAR8hIIEh8SKhJHEmESaRJ9EooSjxKR
+					EpMSmBKaEpwSnhKgEq0SshK0ErYSuxK9Er8S
+					wRLOEtMS1RLXEtwS3hLgEuIS6xL0EwETBhMI
+					EwoTDxMRExMTFRMeEycTNBM5EzsTPRNCE0QT
+					RhNIE1oTZhNzE3gTehN8E4ETgxOFE4cTlBOZ
+					E5sTnROiE6QTphOoE7oTxRPOE90T5BPsE/UT
+					/RTcFN4U5xT1FPwVAxUMFTEVOhVIFU8VXRVm
+					FW8VdBV9FYwVkQAAAAAAAAICAAAAAAAAA1cA
+					AAAAAAAAAAAAAAAAABWg
+					</data>
+				</dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.Automator.WatchMeDo</string>
+				<key>CFBundleVersion</key>
+				<string>1.0.2</string>
+				<key>CanShowSelectedItemsWhenRun</key>
+				<false/>
+				<key>CanShowWhenRun</key>
+				<true/>
+				<key>Category</key>
+				<array>
+					<string>AMCategoryUtilities</string>
+				</array>
+				<key>Class Name</key>
+				<string>AMWatchMeDoAction</string>
+				<key>InputUUID</key>
+				<string>82D47F33-B8A0-4AFB-9F66-7876031264FD</string>
+				<key>Keywords</key>
+				<array>
+					<string>Events</string>
+					<string>Play</string>
+					<string>Record</string>
+				</array>
+				<key>OutputUUID</key>
+				<string>C0701A84-F11E-4A90-8FFF-D3F8BF742CFB</string>
+				<key>UUID</key>
+				<string>AFC00865-94C1-42DB-9983-83BF9BD7C0C5</string>
+				<key>UnlocalizedApplications</key>
+				<array>
+					<string>Automator</string>
+				</array>
+				<key>arguments</key>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>default value</key>
+						<real>1000</real>
+						<key>name</key>
+						<string>timeoutCount_MAX</string>
+						<key>required</key>
+						<string>0</string>
+						<key>type</key>
+						<string>0</string>
+						<key>uuid</key>
+						<string>0</string>
+					</dict>
+					<key>1</key>
+					<dict>
+						<key>default value</key>
+						<real>-1</real>
+						<key>name</key>
+						<string>playbackSpeed_MIN</string>
+						<key>required</key>
+						<string>0</string>
+						<key>type</key>
+						<string>0</string>
+						<key>uuid</key>
+						<string>1</string>
+					</dict>
+					<key>2</key>
+					<dict>
+						<key>default value</key>
+						<true/>
+						<key>name</key>
+						<string>timeoutPerEvent</string>
+						<key>required</key>
+						<string>0</string>
+						<key>type</key>
+						<string>0</string>
+						<key>uuid</key>
+						<string>2</string>
+					</dict>
+					<key>3</key>
+					<dict>
+						<key>default value</key>
+						<data>
+						</data>
+						<key>name</key>
+						<string>userEvents</string>
+						<key>required</key>
+						<string>0</string>
+						<key>type</key>
+						<string>0</string>
+						<key>uuid</key>
+						<string>3</string>
+					</dict>
+					<key>4</key>
+					<dict>
+						<key>default value</key>
+						<real>1</real>
+						<key>name</key>
+						<string>playbackSpeed_MAX</string>
+						<key>required</key>
+						<string>0</string>
+						<key>type</key>
+						<string>0</string>
+						<key>uuid</key>
+						<string>4</string>
+					</dict>
+					<key>5</key>
+					<dict>
+						<key>default value</key>
+						<real>0.0</real>
+						<key>name</key>
+						<string>timeoutCount_MIN</string>
+						<key>required</key>
+						<string>0</string>
+						<key>type</key>
+						<string>0</string>
+						<key>uuid</key>
+						<string>5</string>
+					</dict>
+					<key>6</key>
+					<dict>
+						<key>default value</key>
+						<real>2</real>
+						<key>name</key>
+						<string>timeoutCount</string>
+						<key>required</key>
+						<string>0</string>
+						<key>type</key>
+						<string>0</string>
+						<key>uuid</key>
+						<string>6</string>
+					</dict>
+					<key>7</key>
+					<dict>
+						<key>default value</key>
+						<real>0.0</real>
+						<key>name</key>
+						<string>playbackSpeed</string>
+						<key>required</key>
+						<string>0</string>
+						<key>type</key>
+						<string>0</string>
+						<key>uuid</key>
+						<string>7</string>
+					</dict>
+					<key>8</key>
+					<dict>
+						<key>default value</key>
+						<true/>
+						<key>name</key>
+						<string>timeoutIsError</string>
+						<key>required</key>
+						<string>0</string>
+						<key>type</key>
+						<string>0</string>
+						<key>uuid</key>
+						<string>8</string>
+					</dict>
+				</dict>
+				<key>isViewVisible</key>
+				<true/>
+				<key>location</key>
+				<string>318.500000:826.000000</string>
+				<key>nibPath</key>
+				<string>/System/Library/Automator/Watch Me Do.action/Contents/Resources/Base.lproj/main.nib</string>
+			</dict>
+			<key>isViewVisible</key>
+			<true/>
+		</dict>
+	</array>
+	<key>connectors</key>
+	<dict>
+		<key>29C68D79-670E-4497-8373-40892F3F5540</key>
+		<dict>
+			<key>from</key>
+			<string>B183FC74-A7E6-4F89-90F0-B591104DD481 - B183FC74-A7E6-4F89-90F0-B591104DD481</string>
+			<key>to</key>
+			<string>BC7DC4C5-01F4-4DAD-AE55-F0FEDD750B19 - BC7DC4C5-01F4-4DAD-AE55-F0FEDD750B19</string>
+		</dict>
+		<key>4AAC6758-3E5E-498B-B0E0-81DB41D6B8F3</key>
+		<dict>
+			<key>from</key>
+			<string>DDC845DC-D9FC-49A9-8358-6E47A7045DA3 - DDC845DC-D9FC-49A9-8358-6E47A7045DA3</string>
+			<key>to</key>
+			<string>22973613-998A-4779-8082-96EDEF8BE5C3 - 22973613-998A-4779-8082-96EDEF8BE5C3</string>
+		</dict>
+		<key>867BABA8-2F5C-4257-AE66-1982CA6F1D8E</key>
+		<dict>
+			<key>from</key>
+			<string>BC7DC4C5-01F4-4DAD-AE55-F0FEDD750B19 - BC7DC4C5-01F4-4DAD-AE55-F0FEDD750B19</string>
+			<key>to</key>
+			<string>AFC00865-94C1-42DB-9983-83BF9BD7C0C5 - AFC00865-94C1-42DB-9983-83BF9BD7C0C5</string>
+		</dict>
+		<key>CE1C9EE4-0499-461D-93AA-6DFD82A32C55</key>
+		<dict>
+			<key>from</key>
+			<string>22973613-998A-4779-8082-96EDEF8BE5C3 - 22973613-998A-4779-8082-96EDEF8BE5C3</string>
+			<key>to</key>
+			<string>B183FC74-A7E6-4F89-90F0-B591104DD481 - B183FC74-A7E6-4F89-90F0-B591104DD481</string>
+		</dict>
+	</dict>
+	<key>workflowMetaData</key>
+	<dict>
+		<key>workflowTypeIdentifier</key>
+		<string>com.apple.Automator.workflow</string>
+	</dict>
+</dict>
+</plist>
